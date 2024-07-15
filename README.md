@@ -1,5 +1,5 @@
 #  About Me:
-I`m a game geveloper on Unity & Unreal Engine.<br>I love play games, but develop them love more!
+I am a game developer specializing in Unity and Unreal Engine. <br> I love playing games, but I love developing them even more!
 
 
 ##  Socials:
